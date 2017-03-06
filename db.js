@@ -2,7 +2,7 @@
 let mongoose = require("mongoose");
 mongoose.Promise = global.Promise;
 
-//must uncomment and change the follwing line to the correct database name
+//must uncomment and change the following line to the correct database name
 //mongoose.connect("mongodb://localhost/DBNAME");
 
 mongoose.connection.on("connected", () => {

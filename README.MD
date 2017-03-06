@@ -11,7 +11,8 @@
 7. Run ```npm install```
 8. Run ```bower install```
 9. Find and replace all instances of APPNAME (all caps) in the public folder and gulpfile
-10. Wipe this README file and replace with your own
-11. ```git init``` etc :)
-12. ...
-13. Profit
+10. Replace DBNAME in db.js with the name of your database and uncomment that line
+11. Wipe this README file and replace with your own
+12. ```git init``` etc :)
+13. ...
+14. Profit
